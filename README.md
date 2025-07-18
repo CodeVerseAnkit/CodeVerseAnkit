@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**CodeVerseAnkit/CodeVerseAnkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Ankit
 
-Here are some ideas to get you started:
+🎓 B.Sc. (Computer Application) Student | 💻 Aspiring Full Stack Developer
+🌟 Passionate about coding, learning, and building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+🚀 About Me
+
+👨‍💻 Currently learning C++ and Data Structures & Algorithms
+
+🔥 Dreaming to become a skilled Full Stack Developer
+
+🛠️ Exploring coding by making beginner-level projects
+
+🎯 Aiming to build advanced GUI Applications in future
+
+
+
+---
+
+🛠️ Tech Stack & Skills
+
+C++ | C++ STL | DSA
+
+Basics of Web Development (Future Learning Path)
+
+Problem Solving & Logic Building
+
+
+
+---
+
+📂 My Coding Projects
+
+Beginner Console Projects
+
+Working on Logic-based Challenges
+
+Planning for GUI-based applications (soon...)
+
+
+
+---
+
+📫 Connect with Me
+
+Instagram: @CodeVerseAnkit
+
+GitHub: 
+
+
+
+---
+
+💡 "Learning is a journey, not a destination."
+
+
+---
