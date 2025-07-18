@@ -49,7 +49,7 @@ Planning for GUI-based applications (soon...)
 
 Instagram: @CodeVerseAnkit
 
-GitHub: 
+GitHub: https://github.com/CodeVerseAnkit
 
 
 
