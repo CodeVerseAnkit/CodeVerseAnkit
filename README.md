@@ -1,61 +1,27 @@
-
-👋 Hi there! I'm Ankit
-
-🎓 B.Sc. (Computer Application) Student | 💻 Aspiring Full Stack Developer
-🌟 Passionate about coding, learning, and building real-world projects
+# 💫 About Me:
+<br>🎓 B.Sc. (Computer Application) Student | 💻 Aspiring Full Stack Developer<br><br>🌟 Passionate about coding, learning, and building real-world project<br><br>👨‍💻 Currently learning C++ and Data Structures & Algorithms<br><br>🛠️ Exploring coding by making Intermediate-level projects<br><br>🎯 Aiming to build advanced GUI Applications in future
 
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_verse_ankit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/codeverseankit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@codeverseankit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeverseankit@gmail.com) 
 
-🚀 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CodeVerseAnkit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CodeVerseAnkit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVerseAnkit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-👨‍💻 Currently learning C++ and Data Structures & Algorithms
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CodeVerseAnkit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔥 Dreaming to become a skilled Full Stack Developer
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🛠️ Exploring coding by making beginner-level projects
-
-🎯 Aiming to build advanced GUI Applications in future
-
-
-
----
-
-🛠️ Tech Stack & Skills
-
-C++ | C++ STL | DSA
-
-Basics of Web Development (Future Learning Path)
-
-Problem Solving & Logic Building
-
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeVerseAnkit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=CodeVerseAnkit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📂 My Coding Projects
-
-Beginner Console Projects
-
-Working on Logic-based Challenges
-
-Planning for GUI-based applications (soon...)
-
-
-
----
-
-📫 Connect with Me
-
-Instagram: @CodeVerseAnkit
-
-GitHub: https://github.com/CodeVerseAnkit
-
-
-
----
-
-💡 "Learning is a journey, not a destination."
-
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
